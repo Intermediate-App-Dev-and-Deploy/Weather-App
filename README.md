@@ -7,6 +7,8 @@ Purposes:
 
 Note: this starter project introduces the Weather App Project and can become a Final Project
 
+Weather App Rubric: <a href="">Click Here</a>
+
 **UNDER CONSTRUCTION**
 
 ## Progression - start in console, flat, and progress to structured and procedural
@@ -54,6 +56,27 @@ CAUTION: Local Variables may need to become global variables
      - See UnixTimeStamp.pde
        - Using Java Time and Utility Libraries
        - Converting a Human Date to a Unix Time Stamp
+
+---
+
+# Weather App Rubric
+
+Grade is based on the following
+1. Paper and Pencil Layout, Ratios, and behaviours
+2. Printing `Three` current and forecast URL Calls to the Console
+3. Verifying all populated variables in console from `key:value` pairs
+4. Including QUIT Button
+5. Include 3 buttons to change "three area" weather output
+6. Include Refresh button (for all or individual API calls to specific areas)
+7. Include a time reference to the temperature value requested
+8. Must include one `key:value` from current weather call and one `key:value` pair from forecast weather call
+
+Grade will increase with more developed GUI and `key:value` pairs accessed
+
+`god` Level
+- Use names and keyboard entry to populate API Call from Open Weather Map
+- Create experiment that runs for two weeks collecting forecast data and eventually comparing it to current data (i.e. experience must execute for two weeks)
+
 
 ---
 
