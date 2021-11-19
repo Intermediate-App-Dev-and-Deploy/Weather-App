@@ -7,7 +7,8 @@ Purposes:
 
 Note: this starter project introduces the Weather App Project and can become a Final Project
 
-Weather App Rubric: <a href="">Click Here</a>
+Weather App Rubric: <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Weather-App#weather-app-rubric">
+Click Here</a>
 
 **UNDER CONSTRUCTION**
 
