@@ -10,6 +10,8 @@ Note: this starter project introduces the Weather App Project and can become a F
 Weather App Rubric: <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Weather-App#weather-app-rubric">
 Click Here</a>
 
+---
+
 Progressions
 - Download Processing to C-Drive with shortcut to the .exe in the parent folder
   - https://processing.org/download
@@ -18,6 +20,8 @@ Progressions
 - Complete a Case Study according to the Rubric
 - Prototype different pieces of your Case Study by reviewing Processing-Java
 - Review Bulk Data for City IDs and ```key:value``` pairs
+
+---
 
 **UNDER CONSTRUCTION**
 
