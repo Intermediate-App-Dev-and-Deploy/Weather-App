@@ -10,7 +10,33 @@ Note: this starter project introduces the Weather App Project and can become a F
 Weather App Rubric: <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Weather-App#weather-app-rubric">
 Click Here</a>
 
+Progressions
+- Download Processing to C-Drive with shortcut to the .exe in the parent folder
+  - https://processing.org/download
+  - Note: in the future, access Processing-Java by cloning the Project Folder through GitHub Desktop and Double-Clicking the Main or Sub-programs
+- Sign Up for API Key from Open Weather Map & Explore the Website
+- Complete a Case Study according to the Rubric
+- Prototype different pieces of your Case Study by reviewing Processing-Java
+- Review Bulk Data for City IDs and ```key:value``` pairs
+
 **UNDER CONSTRUCTION**
+
+# Prototyping Pieces of your Case Study
+- Adding Rectangles and other shapes: https://github.com/Intro-CS-App-Dev-and-Deploy/Composite-Shapes
+- Adding a Quit Button: https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Quit-Button
+  - Review Button Exemplars: https://github.com/Intro-CS-App-Dev-and-Deploy/3x3-Home-Screen/tree/main/Beginning%20Buttons/Exemplars
+  - "Do this Not That" Version 1 & 2
+- Adding Images: https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Image
+  - Flat Multiple: sections of program, especially aspect ratio calculations
+  - Dynamic (review boilerplate)
+- Adding Text
+  - Flat Text (Introductory CS): https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Text
+  - Text Calculator (Intermediate CS): https://github.com/Intermediate-App-Dev-and-Deploy/Text-Prototyping
+- **PAUSE HERE**: Lesson on Text Calculator
+- Adding Sound Effects and background Music: https://github.com/Intro-CS-App-Dev-and-Deploy/App-Development/tree/main/Music%20Program
+
+### Full Processing-Java Documentation
+- https://processing.org/reference
 
 ## Progression - start in console, flat, and progress to structured and procedural
 
@@ -26,7 +52,7 @@ CAUTION: Local Variables may need to become global variables
    - Viewing a Sample: see http://bulk.openweathermap.org/sample/
    - Download city.list.json.gz (.gz is a Linux Tar File similar to Windows Zipped file, .zip)
      - Expand with 7Zip
-   - View in Google Chrome, copy pathway *into* computer hard drive
+   - View in Google Chrome, copy pathway *into* computer hard drive (Alternate: open in Note or other WYSIWYG)
    - Use Chrome's Search, ```ctrl-F```, to search JSON for ID
      - Alberta & Edmonton
        - Choose locations in same time zone and daylight savings time (necessary for Unix Timestamp, review a little later)
