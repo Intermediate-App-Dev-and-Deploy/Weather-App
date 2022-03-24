@@ -20,6 +20,11 @@ Progressions
 - Complete a Case Study according to the Rubric
 - Prototype different pieces of your Case Study by reviewing Processing-Java
 - Review Bulk Data for City IDs and ```key:value``` pairs
+- Concatenation of URL Call to server for ...
+  - Current Weather and Forecast Data: See exemplar programs
+  - ICON Data: https://openweathermap.org/weather-conditions
+- NOTE: once the data is unwrapped Strings and Number-values will be easier to plan on your Weather Application
+- NOTE: once the weather icon's String is located, the String Variables can be loaded with another concatenated URL to insert images into the application
 
 ---
 
@@ -129,4 +134,5 @@ CAUTION: these programs are not finished, but are working
 
 Teacher Only Files, <a href="https://github.com/QEHS-ProcessingJava/Weather-App">Click Here</a>
 - Additional Files: <a href="https://drive.google.com/drive/folders/1XBQqcmZKeunO-dKO8Ya1OIfelVl4nLmb">Click Here</a>
+
 ---
