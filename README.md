@@ -10,6 +10,8 @@ Note: this starter project introduces the Weather App Project and can become a F
 Weather App Rubric: <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Weather-App#weather-app-rubric">
 Click Here</a>
 
+Teacher Notes: <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Weather-App-Teaching-Exemplars">Click Here</a>
+
 ---
 
 Progressions
