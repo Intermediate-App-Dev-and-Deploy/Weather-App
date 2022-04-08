@@ -1,6 +1,18 @@
 # Weather App Project
 Using API's to assign variable values, automatically updated from the Internet, preparing Device Deployment
 
+---
+
+# CAUTION
+
+All Sandboxes and Repositories must b e private and shared with Mr. Mercer or anyone accessing them.
+
+Open Weather Map API Keys are intended to be private and Watchdogs will be searching for publicly available API Keys
+
+---
+
+# Introduction
+
 Purposes:
 - Prototype a Weather App by populating variables and debugging to the console
 - Learning how to use an API as a developer
