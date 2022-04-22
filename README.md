@@ -24,7 +24,7 @@ Click Here</a>
 
 Teacher Notes: <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Weather-App-Teaching-Exemplars">Click Here</a>
 
-Student Exemplar with godMode (Typing Example), and example of all forecast data <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Weather-App-Student-Exemplar">Click Here</a>
+Student Exemplar with godMode (Typing Example), and example of all forecast data: <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Weather-App-Student-Exemplar">Click Here</a>
 
 ---
 
