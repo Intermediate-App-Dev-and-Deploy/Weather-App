@@ -18,6 +18,7 @@ JSONObject jsonCurrentRedDeer;
 JSONObject jsonForecastRedDeer;
 
 void buildingURL() {
+  //Lesson for reading URLs is in String Names
   String domain = "http://api.openweathermap.org"; //http vs https, s for secure
   String baseULR_data = "/data/2.5/"; //opens two folders
   String folderWeather = "weather?"; //opens weather folder
@@ -27,19 +28,23 @@ void buildingURL() {
   String baseURL_Forecast = domain + baseULR_data + folderForecast;
   //
   String albertaId = "id=5883102"; //City ID Numbers
-  
-  
-  
-  
-  String edmontonId = "id=5946768";
-  String calgaryId = "id=5913490";
-  String redDeerId = "id=6118158";
+  //
   String apiKey = "APPID="; //API Key is PRIVATE so not included here
   String mode = "mode=json";
   String unitMetric = "units=metric";
   String and = "&";
-
+  //
+  //Concatenate the URL
   URLCurrentAlberta = baseURL_Current+albertaId+and+apiKey+and+mode+and+unitMetric;
+  //
+  //Other IDs for other places
+  String edmontonId = "id=5946768";
+  String calgaryId = "id=5913490";
+  String redDeerId = "id=6118158";
+  
+  
+  
+  
   URLForecastAlberta = baseURL_Forecast+albertaId+and+apiKey+and+mode+and+unitMetric;
   URLCurrentEdmonton = baseURL_Current+edmontonId+and+apiKey+and+mode+and+unitMetric;
   URLForecastEdmonton = baseURL_Forecast+edmontonId+and+apiKey+and+mode+and+unitMetric;
