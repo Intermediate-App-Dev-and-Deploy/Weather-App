@@ -1,6 +1,6 @@
 // Open Weather Map App
 // Global Variables
-
+//
 void setup() {
   //Display
   //Gemoetry
@@ -10,17 +10,23 @@ void setup() {
   APICall();
   unwrapToVariables();
 }
-
+//
 void draw() {
   // City Call, see procedure using Boolean & Button
   // Choice of Three Cities: Edmonton, Calgary, Red Deer
   }
-
+//
+void keyPressed() {
+  APICall();
+  unwrapToVariables();
+  println(apiCurrentDateCall);
+} //End keyPressed
+//
 void mousePressed() {
   APICall();
   unwrapToVariables();
   println(apiCurrentDateCall);
   // City Call, see procedure using Boolean & Button
 }
-
-void keyPressed() {}
+//
+//End MAIN Program
