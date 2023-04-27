@@ -36,16 +36,13 @@ void buildingURL() {
   //
   //Concatenate the URL
   URLCurrentAlberta = baseURL_Current+albertaId+and+apiKey+and+mode+and+unitMetric;
+  URLForecastAlberta = baseURL_Forecast+albertaId+and+apiKey+and+mode+and+unitMetric;
   //
   //Other IDs for other places
   String edmontonId = "id=5946768";
   String calgaryId = "id=5913490";
   String redDeerId = "id=6118158";
-  
-  
-  
-  
-  URLForecastAlberta = baseURL_Forecast+albertaId+and+apiKey+and+mode+and+unitMetric;
+  //
   URLCurrentEdmonton = baseURL_Current+edmontonId+and+apiKey+and+mode+and+unitMetric;
   URLForecastEdmonton = baseURL_Forecast+edmontonId+and+apiKey+and+mode+and+unitMetric;
   URLCurrentCalgary = baseURL_Current+calgaryId+and+apiKey+and+mode+and+unitMetric;
@@ -54,14 +51,14 @@ void buildingURL() {
   URLForecastRedDeer = baseURL_Forecast+redDeerId+and+apiKey+and+mode+and+unitMetric;
 
   //Verification in Console, copy-paste variable output to Chrome and verify data can be seen correctly
-  //println(URLCurrentAlberta);
-  //println(URLForecastAlberta);
-  //println(URLCurrentEdmonton);
-  //println(URLForecastEdmonton);
-  //println(URLCurrentCalgary);
-  //println(URLForecastCalgary);
-  //println(URLCurrentRedDeer);
-  //println(URLForecastRedDeer);
+  println(URLCurrentAlberta);
+  println(URLForecastAlberta);
+  println(URLCurrentEdmonton);
+  println(URLForecastEdmonton);
+  println(URLCurrentCalgary);
+  println(URLForecastCalgary);
+  println(URLCurrentRedDeer);
+  println(URLForecastRedDeer);
 } //End buildingURL()
 
 void APICall() {
