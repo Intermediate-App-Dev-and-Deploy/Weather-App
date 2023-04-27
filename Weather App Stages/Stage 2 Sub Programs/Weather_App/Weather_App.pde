@@ -2,6 +2,10 @@
 // Global Variables
 
 void setup() {
+  //Display
+  //Gemoetry
+  //Population
+  //DIV rect()
   buildingURL();
   APICall();
   unwrapToVariables();
