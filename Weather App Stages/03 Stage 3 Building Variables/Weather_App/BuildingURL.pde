@@ -55,14 +55,15 @@ void buildingURL() {
   URLForecastRedDeer = baseURL_Forecast+redDeerId+and+apiKey+and+mode+and+unitMetric;
 
   //Verification in Console, copy-paste variable output to Chrome and verify data can be seen correctly
-  println(URLCurrentAlberta);
-  println(URLForecastAlberta);
-  println(URLCurrentEdmonton);
-  println(URLForecastEdmonton);
-  println(URLCurrentCalgary);
-  println(URLForecastCalgary);
-  println(URLCurrentRedDeer);
-  println(URLForecastRedDeer);
+  //println(URLCurrentAlberta);
+  //println(URLForecastAlberta);
+  //println(URLCurrentEdmonton);
+  //println(URLForecastEdmonton);
+  //println(URLCurrentCalgary);
+  //println(URLForecastCalgary);
+  //println(URLCurrentRedDeer);
+  //println(URLForecastRedDeer);
+  //
 } //End buildingURL()
 
 void APICall() {
@@ -75,5 +76,4 @@ void APICall() {
   jsonCurrentRedDeer = loadJSONObject(URLCurrentRedDeer);
   jsonForecastRedDeer = loadJSONObject(URLForecastRedDeer);
 } //End APICall
-
 //Loading JSONObjects with Website API Data

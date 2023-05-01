@@ -8,7 +8,7 @@ void setup() {
   //DIV rect()
   buildingURL();
   APICall();
-  unwrapToVariables();
+  unwrapToVariables(); //might combine with APICall
 }
 //
 void draw() {
@@ -18,14 +18,14 @@ void draw() {
 //
 void keyPressed() {
   APICall();
-  unwrapToVariables();
-  println(apiCurrentDateCall);
+  unwrapToVariables(); //might combine with APICall
+  println(apiCurrentDateCall); //To verify wrapping is current
 } //End keyPressed
 //
 void mousePressed() {
   APICall();
-  unwrapToVariables();
-  println(apiCurrentDateCall);
+  unwrapToVariables(); //might combine with APICall
+  println(apiCurrentDateCall); //To verify wrapping is current
   // City Call, see procedure using Boolean & Button
 }
 //

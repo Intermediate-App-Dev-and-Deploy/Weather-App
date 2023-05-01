@@ -1,5 +1,9 @@
 //UnwrapToVariables
 /* Code to Copy, use println() to verify
+ - When validating data in JSON Lint
+ - Choose which variables you need, create as Global Variables
+ - build a generic unwrapping
+ - build specfic unwrappings to Global Variables
  
  Note: use APICall() Variables here, for example jsonCurrentEdmonton
  Caution: variables should be a mix of global and local variables

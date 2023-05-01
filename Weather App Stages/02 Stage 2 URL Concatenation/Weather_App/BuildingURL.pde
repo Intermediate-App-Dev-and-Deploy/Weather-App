@@ -52,13 +52,13 @@ void buildingURL() {
 
   //Verification in Console, copy-paste variable output to Chrome and verify data can be seen correctly
   println(URLCurrentAlberta);
-  println(URLForecastAlberta);
-  println(URLCurrentEdmonton);
-  println(URLForecastEdmonton);
-  println(URLCurrentCalgary);
-  println(URLForecastCalgary);
-  println(URLCurrentRedDeer);
-  println(URLForecastRedDeer);
+  //println(URLForecastAlberta);
+  //println(URLCurrentEdmonton);
+  //println(URLForecastEdmonton);
+  //println(URLCurrentCalgary);
+  //println(URLForecastCalgary);
+  //println(URLCurrentRedDeer);
+  //println(URLForecastRedDeer);
 } //End buildingURL()
 
 void APICall() {
