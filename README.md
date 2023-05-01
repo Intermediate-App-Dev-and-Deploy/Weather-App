@@ -8,6 +8,7 @@ Using API's to assign variable values, automatically updated from the Internet, 
 All Sandboxes and Repositories must b e private and shared with Mr. Mercer or anyone accessing them.
 
 Open Weather Map API Keys are intended to be private and Watchdogs will be searching for publicly available API Keys
+- API Key Found Here: https://github.com/MercersKitchen/Sandbox-Weather-API-Key-20230424-P3
 
 ---
 
