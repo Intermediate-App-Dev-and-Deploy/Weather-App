@@ -1,4 +1,11 @@
 
+PURPOSE:
+- Learn about API Data Structure
+- What is included in a JSON Object (variables to access)
+- What is included in a JSON Array List (variables to access)
+- How to Access (unwrap like an onion)
+- How to code key:value pairs to the CANVAS
+
 Lesson
 - Verify the jsonObject URL in a broswer
 - Make it readable in JSON Lint
