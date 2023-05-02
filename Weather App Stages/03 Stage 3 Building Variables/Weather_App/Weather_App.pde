@@ -19,13 +19,13 @@ void draw() {
 void keyPressed() {
   APICall();
   unwrapToVariables(); //might combine with APICall
-  println(apiCurrentDateCall); //To verify wrapping is current
+  println("Main Program, key pressed\t\t", apiCurrentDateCall); //To verify wrapping is current
 } //End keyPressed
 //
 void mousePressed() {
   APICall();
   unwrapToVariables(); //might combine with APICall
-  println(apiCurrentDateCall); //To verify wrapping is current
+  println("Main Program, mouse pressed\t\t", apiCurrentDateCall); //To verify wrapping is current
   // City Call, see procedure using Boolean & Button
 }
 //

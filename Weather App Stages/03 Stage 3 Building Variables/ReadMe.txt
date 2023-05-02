@@ -27,3 +27,4 @@ Finally: loading images from open weather map
   - 2x recommended as image can be resized based on display
   - will not be as pixelated if resized to a bigger size
 
+Note: println for date as character escapes /t (TAB)
