@@ -1,9 +1,12 @@
 
 PURPOSE:
+- How to write an URL Call (teacher directed from Open Weather Map)
+  - JSON Objects
+  - Structure another URL to access an image, delievered as a key:value
 - Learn about API Data Structure
 - What is included in a JSON Object (variables to access)
 - What is included in a JSON Array List (variables to access)
-- How to Access (unwrap like an onion)
+- How to Access (unwrap like an onion) API Data 
 - How to code key:value pairs to the CANVAS
 
 Lesson
