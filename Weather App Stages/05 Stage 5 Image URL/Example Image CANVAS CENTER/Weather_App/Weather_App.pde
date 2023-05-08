@@ -3,6 +3,7 @@
 //
 void setup() {
   //Display
+  size(500, 500); //Declared only for troubleshooting the image
   //Gemoetry
   //Population
   //DIV rect()
@@ -31,19 +32,3 @@ void mousePressed() {
   // City Call, see procedure using Boolean & Button
 }
 //
-/* Note: the actual Weather Icon Code sent depends on which lcoation button is pressed
-- example uses Edmonton
-*/
-void imageURLBuilding(String icon) {
-  String baseURL = "https://openweathermap.org";
-  String forwardSlash = "/";
-  String imgFolder = "img";
-  String weatherIconFolder = "wn";
-  String at = "@";
-  String twiceSize = "2x"; //ICONS twice size scale better than 1x
-  String fileExtension = ".png";
-  //
-  String imageURL = baseURL + forwardSlash + imgFolder + forwardSlash + weatherIconFolder + forwardSlash + icon + at + twiceSize + fileExtension;
-  //
-  println(imageURL); //Paste into Browser to Verify
-} //End image URL Building
