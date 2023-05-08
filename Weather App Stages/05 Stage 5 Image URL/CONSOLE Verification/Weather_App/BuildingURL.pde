@@ -1,3 +1,8 @@
+/* VOIDs
+ - Building URL
+ - API Call
+ - Image URL, returning an URL
+ */
 //Global Variable
 String URLCurrentAlberta;
 String URLForecastAlberta;
@@ -42,7 +47,11 @@ void buildingURL() {
   String edmontonId = "id=5946768";
   String calgaryId = "id=5913490";
   String redDeerId = "id=6118158";
+  //CAUTION: easier to use city name, see
+  // https://openweathermap.org/api
+  // https://openweathermap.org/current#name
   //
+  //Other Place URLs
   URLCurrentEdmonton = baseURL_Current+edmontonId+and+apiKey+and+mode+and+unitMetric;
   URLForecastEdmonton = baseURL_Forecast+edmontonId+and+apiKey+and+mode+and+unitMetric;
   URLCurrentCalgary = baseURL_Current+calgaryId+and+apiKey+and+mode+and+unitMetric;
@@ -51,7 +60,7 @@ void buildingURL() {
   URLForecastRedDeer = baseURL_Forecast+redDeerId+and+apiKey+and+mode+and+unitMetric;
 
   //Verification in Console, copy-paste variable output to Chrome and verify data can be seen correctly
-  println(URLCurrentAlberta);
+  //println(URLCurrentAlberta);
   //println(URLForecastAlberta);
   //println(URLCurrentEdmonton);
   //println(URLForecastEdmonton);
@@ -59,6 +68,7 @@ void buildingURL() {
   //println(URLForecastCalgary);
   //println(URLCurrentRedDeer);
   //println(URLForecastRedDeer);
+  //
 } //End buildingURL()
 
 void APICall() {
@@ -71,5 +81,12 @@ void APICall() {
   jsonCurrentRedDeer = loadJSONObject(URLCurrentRedDeer);
   jsonForecastRedDeer = loadJSONObject(URLForecastRedDeer);
 } //End APICall
-
 //Loading JSONObjects with Website API Data
+//
+/* URLs to reference
+ - https://openweathermap.org/weather-conditions
+ - Example URL: https://openweathermap.org/img/wn/10d@2x.png
+ - List of Codes:
+ 
+ 
+ */
