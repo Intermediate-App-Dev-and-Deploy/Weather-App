@@ -32,8 +32,9 @@ void mousePressed() {
 }
 //
 /* Note: the actual Weather Icon Code sent depends on which lcoation button is pressed
-- example uses Edmonton
-*/
+ - example uses Edmonton
+ - Note: https://openweathermap.org/img/wn/ [icon variable] 2x@.png
+ */
 void imageURLBuilding(String icon) {
   String baseURL = "https://openweathermap.org";
   String forwardSlash = "/";
