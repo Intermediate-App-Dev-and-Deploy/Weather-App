@@ -11,3 +11,6 @@ Population, Data Structures
 
 Date Output & String Manipulation
 
+Getting individual sections of forecast data
+
+play suffle, do not repeat songs
