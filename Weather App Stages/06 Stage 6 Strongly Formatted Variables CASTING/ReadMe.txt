@@ -1,4 +1,8 @@
 
+CONTINUE HERE
+- See Private with API
+
+
 Printing Numbers as Strings
 Also print weather icon based on place
 Also use Place String
