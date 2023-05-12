@@ -1,6 +1,11 @@
 # Weather App Project
 Using API's to assign variable values, automatically updated from the Internet, preparing Device Deployment
 
+Question: what are some APIs that students might be interested in
+- how is data delivered
+- how can it be known
+- purpose: self populating variables, similar to Strings from Music Files
+
 ---
 
 # CAUTION
