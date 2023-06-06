@@ -8,7 +8,8 @@ Question: what are some APIs that students might be interested in
 
 ---
 
-### Example
+### Example: information when playing Tic Tac Toe Game
+- Music Player makes sound effects and background music for game is more fun
 
 App Purpose: with the data, and search the data to tell the person the weather
 - turn off the game and go outside, it is nice out
