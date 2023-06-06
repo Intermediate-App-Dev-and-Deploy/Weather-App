@@ -8,6 +8,15 @@ Question: what are some APIs that students might be interested in
 
 ---
 
+### Example
+
+App Purpose: with the data, and search the data to tell the person the weather
+- turn off the game and go outside, it is nice out
+- it is your play time hours, go play outside
+- play this later
+
+---
+
 # CAUTION
 
 All Sandboxes and Repositories must b e private and shared with Mr. Mercer or anyone accessing them.
