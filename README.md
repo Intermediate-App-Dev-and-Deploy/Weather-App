@@ -141,7 +141,7 @@ Grade is based on the following
 
 Grade will increase with more developed GUI and `key:value` pairs accessed
 
-`god` Level
+`god`-Mode Level
 - Use names and keyboard entry to populate API Call from Open Weather Map
 - Create experiment that runs for two weeks collecting forecast data and eventually comparing it to current data (i.e. experience must execute for two weeks)
 
