@@ -1,4 +1,4 @@
-/* Open Weather Map App
+/* Open Weather Map App: Reminders, BUGs and ToDos
 */
 //
 //Libraries and Dependancies
@@ -18,10 +18,12 @@ void draw() {
 //
 void keyPressed() {
   // City Call, see procedure using Boolean & Button
+  // Teacher Lessons
 }
 //
 void mousePressed() {
   // City Call, see procedure using Boolean & Button
+  // Students to apply key board short cuts
 }
 //
 //End MAIN Program
